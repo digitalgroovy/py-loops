@@ -1,2 +1,2 @@
-# py-loops
-MIT 6 course examples
+# py-loops 
+example py 
